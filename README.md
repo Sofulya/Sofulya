@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @Sofulya
 - 🌐 I program in Python
-- ✨ Currently studying CSS, HTML and JS
+- ✨ Currently studying CSS, HTML
 - ✉ How to contact me, https://t.me/sssofulya , https://vk.com/sssofulya

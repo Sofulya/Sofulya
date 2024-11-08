@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @Sofulya
-- 🌐 I program in Python
-- ✨ Currently studying CSS, HTML
-- ✉ How to contact me,
+- 🌐
+- ✨
+- ✉ How to contact me.

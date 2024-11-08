@@ -1,4 +1,2 @@
-- 👋 Hi, I'm @Sofulya
-- 🌐
-- ✨
+- 👋 Hi, I'm @Sofulya 🌐 ✨
 - ✉ How to contact me.
